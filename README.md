@@ -4,6 +4,8 @@ The purpose of this repo is to help you start with your reinforcement learning j
 Below, I divided the resources into three section so you can easily find what you are looking for. 
 As a general rule, easy sections have problems that can be understood without any prior knowledge of reinforcement learning. Medium might require some additional research and advance are for individuals who are more familiar with the topic. 
 
+Also, you can follow my progress and my comments here: 
+
 Contact me if you feel that my list could use some additional links. 
 
 Enjoy
@@ -37,5 +39,5 @@ Enjoy
 1. Reinforcement Learning: An Introduction (Sutton & Barto 2016) http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf
 
 ### Lnks to Repos
-1. Source 1
+1. Amazing Resource with many examples: https://github.com/aikorea/awesome-rl
 1. Source 2 
