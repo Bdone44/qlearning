@@ -4,7 +4,8 @@
 ### Web articles 
 #### Level 0 
 1. A quick introduction to Q Learning: http://mnemstudio.org/path-finding-q-learning-tutorial.htm
-1. Source 2 
+1. Simple Beginner’s guide to Reinforcement Learning & its implementation: https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/ 
+1. Source 3
 
 #### Level 1
 1. Source 1
