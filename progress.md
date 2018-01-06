@@ -5,6 +5,7 @@
 This is the start. 
 * Set up everything 
 * Read a number of articles to refresh my knowledge
+
 TODO: Need to work on my roadmap, milestones and rewards.
 
 #### Read: 
