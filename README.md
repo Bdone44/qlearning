@@ -3,7 +3,8 @@
 
 ### Web articles 
 #### Level 0 
-A quick introduction to Q Learning: http://mnemstudio.org/path-finding-q-learning-tutorial.htm
+1. A quick introduction to Q Learning: http://mnemstudio.org/path-finding-q-learning-tutorial.htm
+1. Source 2 
 
 #### Level 1
 
