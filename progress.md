@@ -1,10 +1,12 @@
 # The purpose of this file is to track my progress
+
+
+### 20180107
 This is the start. 
 * Set up everything 
 * Read a number of articles to refresh my knowledge
 TODO: Need to work on my roadmap, milestones and rewards.
 
-### 20180107
 #### Read: 
 https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
 https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/
