@@ -12,6 +12,7 @@ Enjoy
 #### Easy 
 1. A quick introduction to Q Learning: http://mnemstudio.org/path-finding-q-learning-tutorial.htm
 1. Simple Beginner’s guide to Reinforcement Learning & its implementation: https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/ 
+1. Reinforcement Learning Part 1: Q-learning and Exploration: https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/
 1. Source 3
 
 #### Medium
