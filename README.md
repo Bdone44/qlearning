@@ -7,14 +7,21 @@
 1. Source 2 
 
 #### Level 1
-
+1. Source 1
+1. Source 2 
 
 #### Level 2 
+1. Source 1
+1. Source 2 
 
-
+### Lectures
+1. UCL Course on RL (d.silver@cs.ucl.ac.uk): http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+1. Source 2 
 
 ### Research papers
-
+1. Source 1
+1. Source 2 
 
 ### Lnks to Repos
-
+1. Source 1
+1. Source 2 
