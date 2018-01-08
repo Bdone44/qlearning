@@ -4,7 +4,7 @@
 Watched:
 * Deep Q Learning for Video Games - The Math of Intelligence #9 https://www.youtube.com/watch?v=79pmNdyxEGo
 * How to use Q Learning in Video Games Easily https://www.youtube.com/watch?v=A5eihauRQvo
-
+Sutton hs 2018 version of his book: http://incompleteideas.net/book/bookdraft2018jan1.pdf
 
 ### 20180107
 This is the start. 
