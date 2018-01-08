@@ -1,5 +1,8 @@
 # The purpose of this file is to track my progress
 
+### 20180108
+Watched Deep Q Learning for Video Games - The Math of Intelligence #9 https://www.youtube.com/watch?v=79pmNdyxEGo
+
 
 ### 20180107
 This is the start. 
