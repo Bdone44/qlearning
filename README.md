@@ -31,6 +31,10 @@ Enjoy
 1. UCL Course on RL (d.silver@cs.ucl.ac.uk): http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 1. Source 2 
 
+### Videos 
+1. Deep Q Learning for Video Games - The Math of Intelligence #9 https://www.youtube.com/watch?v=79pmNdyxEGo
+1. How to use Q Learning in Video Games Easily https://www.youtube.com/watch?v=A5eihauRQvo
+
 ### Research papers
 1. Source 1
 1. Source 2 
