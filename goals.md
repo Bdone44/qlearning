@@ -8,8 +8,8 @@ Dates indicate the end of the sprint
 
 * Cover 2 chapters of the Intro To RL book 
 * Understand the basic split of RL 
-* Prepare writeup so I can review (with links to sources)
+* Prepare writeup on the Split of RL so I can review (with links to sources)
 * Implement basic gridworld algo (no need to understand it)
-* Implement basic tic tac toe algo (no need to understand it)
+* Implement basic tic tac toe algo (no need to understand it) [DONE]
 * Implement basic rock paper sciscors algo (no need to understand it)
 
