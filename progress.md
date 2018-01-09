@@ -1,4 +1,21 @@
 # The purpose of this file is to track my progress
+### 20180109
+Read  this paper: 
+http://webee.technion.ac.il/people/shimkin/LCS11/ch4_RL1.pdf
+
+It is a good overview will probably read it again. Also, good explanation of equations. 
+Learning Approaches: The main approaches for learning in this context can be classified as
+follows:
+* Indirect Learning: Estimate an explicit model of the environment (Pˆ and ˆr in our
+case), and compute an optimal policy for the estimated model (“Certainty Equivalence”).
+* Direct Learning: The optimal control policy is learned without first learning an explicit
+model. Such schemes include:
+
+  a. Search in policy space: Genetic Algorithms, Policy Gradient....
+
+
+  b. Value-function based learning, related to Dynamic Programming principles: Temporal
+Difference (TD) learning, Q-learning, etc.
 
 ### 20180108
 Watched:
