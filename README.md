@@ -41,6 +41,7 @@ Enjoy
 
 ### Books 
 1. Reinforcement Learning: An Introduction (Sutton & Barto 2016) http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf
+1. Learning in Complex Systems (Spring 2011) Lecture Notes Nahum Shimkin http://webee.technion.ac.il/people/shimkin/LCS11/ch4_RL1.pdf
 
 ### Lnks to Repos
 1. Amazing Resource with many examples: https://github.com/aikorea/awesome-rl
